@@ -17,14 +17,15 @@
 •	In winter (Nov-Feb), are violent or non violent crimes more prevalent?
 # •	Datasets to be used
 •	FBI 
+(https://crime-data-explorer.app.cloud.gov/pages/home)
 # •	Rough breakdown of tasks 
 •	Jorge Hernandez  
-•	What month does the most criminal activity occur?  
-•	In winter (Nov-Feb), are violent or non violent crimes more prevalent?  
+_•	What month does the most criminal activity occur?  
+_•	In winter (Nov-Feb), are violent or non violent crimes more prevalent?  
 •	Nicole Antkowiak  
-•	How does the number of crimes per month compare to ten years ago?  
+_•	How does the number of crimes per month compare to ten years ago?  
 •	John Tanasijevich  
-•	What is the gender disparity in terms of crimes committed by those under 25 years old?  
+_•	What is the gender disparity in terms of crimes committed by those under 25 years old?  
 •	Sviatoslav Piasta  
 •	Alanis Romero 
-•	Are non-residents more likely to commit crimes?
+_•	Are non-residents more likely to commit crimes?
