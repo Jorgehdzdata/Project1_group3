@@ -1,4 +1,4 @@
-# Project1_group3
+# Project-1 Group 3
 ### Group project  
 ## •	Project Title •	Crime in the State   
 # •	Group Members
