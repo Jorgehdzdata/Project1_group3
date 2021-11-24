@@ -1,6 +1,6 @@
 # Project1_group3
-###Group project  
-##•	Project Title
+### Group project  
+## •	Project Title
 •	Crime in the State   
 •	Group Members
 •	Jorge Hernandez
