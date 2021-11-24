@@ -6,7 +6,7 @@
 •	Nicole Antkowiak
 •	John Tanasijevich
 •	Sviatoslav Piasta
-•	Alanis  
+•	Alanis Romero  
 # •	Project description/outline
 •	We plan on analyzing a single year’s crime data in Illinois to find trends in the data related to crimes committed in Illinois. Through this analysis we hope to find either some sort of pattern or significance in the data that would allow us to come up with a list of criteria in which Illinois crime is most common. These findings will allow us to gain a better understanding of who, when, and what the overall trends in these crimes are. 
 •	Research questions to answer 
