@@ -1,7 +1,7 @@
 # Project1_group3
 Group project
 •	Project Title
-•	Crime in the State 
+•	Crime in the State   
 •	Group Members
 •	Jorge Hernandez
 •	Nicole Antkowiak
