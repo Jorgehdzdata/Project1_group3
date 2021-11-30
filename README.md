@@ -1,6 +1,6 @@
 # Project-1 Group 3
 ### Group project  
-## Project Title :	Crime in the Stae   
+## Project Title :	Crime in the State of Illinois    
 # Group Members
 •	Jorge Hernandez  
 •	Nicole Antkowiak  
