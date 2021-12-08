@@ -19,13 +19,13 @@
 •	FBI 
 (https://crime-data-explorer.app.cloud.gov/pages/home)
 # Rough Breakdown of Tasks 
-•	Jorge Hernandez  
+Jorge Hernandez  
 • What month does the most criminal activity occur?  
 • In winter (Nov-Feb), are violent or non violent crimes more prevalent?  
-•	Nicole Antkowiak  
+Nicole Antkowiak  
 • How does the number of arrests per month compare to ten years ago?  
-•	John Tanasijevich  
+John Tanasijevich  
 • What is the gender disparity in terms of crimes committed by those under 25 years old?  
-•	Sviatoslav Piasta  
-•	Alanis Romero  
+Sviatoslav Piasta  
+Alanis Romero  
 • Are non-residents more likely to commit crimes?
