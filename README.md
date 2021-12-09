@@ -14,7 +14,7 @@
 •	Are non-residents more likely to commit crimes?  
 •	What month does the most criminal activity occur?  
 •	How does the number of crimes per month compare to ten years ago?  
-•	In winter (Nov-Feb), are violent or non violent crimes more prevalent?
+•	In what month are violent and non violent crimes more prevalent?
 # Datasets to be Used
 •	FBI 
 (https://crime-data-explorer.app.cloud.gov/pages/home)
