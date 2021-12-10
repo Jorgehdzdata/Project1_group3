@@ -21,7 +21,7 @@
 # Rough Breakdown of Tasks 
 Jorge Hernandez  
 • What month does the most criminal activity occur?  
-• In winter (Nov-Feb), are violent or non violent crimes more prevalent?  
+• Are violent or non violent crimes more prevalent?  
 Nicole Antkowiak  
 • How does the number of arrests per month compare to ten years ago?  
 John Tanasijevich  
