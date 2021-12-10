@@ -30,4 +30,3 @@ Sviatoslav Piasta
 • Top-10 location/offense was reported (for 2019)?
 Alanis Romero  
 • Are non-residents more likely to commit crimes?
-
