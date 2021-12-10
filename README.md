@@ -28,5 +28,5 @@ John Tanasijevich
 • What is the gender disparity in terms of crimes committed by those under 25 years old?  
 Sviatoslav Piasta 
 • Top-10 location/offense was reported (for 2019)?
-Alanis Romero  
+Alanis Romero 
 • Are non-residents more likely to commit crimes?
